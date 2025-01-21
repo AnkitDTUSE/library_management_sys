@@ -1,8 +1,8 @@
 # student_info_sys
 
 software engg. 1
-group 10 
-group project -- student information system
+group 9 
+group project -- library management system
 
 team members --> aman sinha (24/b01/028)
                  ananya monga (24/b01/029)
