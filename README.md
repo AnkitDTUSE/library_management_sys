@@ -1,4 +1,4 @@
-# student_info_sys
+# library_management_sys
 
 software engg. 1
 group 9 
