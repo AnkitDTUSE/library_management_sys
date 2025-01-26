@@ -1,7 +1,7 @@
 # library_management_sys
 
 software engg. 1
-group 9 
+group - I 
 group project -- library management system
 
 team members --> aman sinha (24/b01/028)
